@@ -6,9 +6,8 @@
 
 ## 📦 Repositório
 
-[GitHub](https://github.com/SEU-USUARIO/SEU-REPOSITORIO)
+[GitHub](https://github.com/jpcarvalhoac/bcc-481-django/tree/bcc481-django-parte1)
 
 ## 🖼️ Imagem
 
 ![Imagem do projeto](./imgs/django-execucao.png)
-
