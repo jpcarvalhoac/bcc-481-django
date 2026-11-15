@@ -16,6 +16,10 @@ docker compose up --build
 
 Acesse http://localhost:8000
 
+<img src="./imgs/imagem1.png" alt="Execução do sistema - imagem 1" width="600">
+
+<img src="./imgs/imagem2.png" alt="Execução do sistema - imagem 2" width="600">
+
 ## Criar o usuário admin
 
 Com o servidor rodando, em outro terminal:
